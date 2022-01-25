@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="ISO-8859-1">
+		<meta charset="UTF-8">
+		<title>Editar</title>
+		<link rel="stylesheet" href="../css/index.css"/>
+	</head>
+	<body>
+	
+		<h1>Editar contribuição</h1>
+		
+		<script src="../js/editar.js"></script>	
+		<form onsubmit="editaUsuario()">
+			<label for="nome">Nome:</label>
+			<input name="nome" id="nome" type="text"/>
+			<label for="cpf">cpf:</label>
+			<input name="cpf "id="cpf" type="text" placeholder="123.456.789-32"/>
+			<label for="contribuicao">contribuicao:</label>
+			<input name="contribuicao" id="contribuicao" type="text"/>
+			<input name="id" id="id" type= "hidden"/>
+			<input type = "submit">		
+		</form>
+		<a href="../html/listar.html">Voltar </a>
+	</body>
+</html>
