@@ -47,12 +47,6 @@ Observações:
 * Cafezinho: api rest
 * CafezinhoClient: cliente que utiliza html + js para consumir as informações da api
 * testes feitos utilizando postman
-* a api só aceita uma contribuição por usuario, me ocupei um pouco com o front pois não utiliza o js a muito tempo,
-porem poderia ser implementado inserindo uma lista no modelo e criando mais um tabela no banco que se comunica com chave estrangeira
-e realiza a iteração das contribuições do usuario.
 
-Informações do banco:
-user: rdjossin3b8airig
-senha: jomzy05a0e65vb59
-provedor: exbodcemtop76rnz.cbetxkdyhwsb.us-east-1.rds.amazonaws.com
-nome do banco: fn1q0e5065kdncjj
+
+
